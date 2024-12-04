@@ -11,6 +11,9 @@ class Shape{
         $this->height = $height;
 
     }
-    
+
+    protected function calculateArea(){
+        
+    }
 }
 ?>
