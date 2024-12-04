@@ -1,4 +1,4 @@
-<h1 style= color:blue>**Sprint1 tema 4: POO(1).**</h1>
+**<h1 style="color:blue;">Sprint1 tema 4: POO(1).</h1>**
 
 Tecnologías utilizadas:
     · Xampp
