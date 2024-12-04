@@ -6,16 +6,17 @@
     · Git versión 2.47.0.windows.2<br>
     · IDE (visual studio code)
 
-Requisitos:
-    · Entorno de servidor web local
+**<h3>#Requisitos:</h3>**
+    · Entorno de servidor web local<br>
     . Navegador web
 
-Instalacíon:
-    · Descargar e instalar un entorno de servidor web local(como XAMPP)
+**<h3>Instalacíon:</h3>**
+    · Descargar e instalar un entorno de servidor web local(como XAMPP)<br>
     · Clonar o descargar el repositorio dentro de la carpeta htdocs, que se encuentra en la carpeta XAMPP una vez instalado.
 
-Ejecución:
+**<h3>Ejecución:</h3>**
     · Abrir navegador web de preferencia e introducir la url: localhost/"la dirección de la carpeta dónde se encuentra el ejercicio o proyecto"
 
-Descripción ejercicios:
+**<h3>Descripción ejercicios:</h3>**
+    · *"Crea una classe Employee, defineix com a atributs el seu nom i sou. Definir un mètode initialize que rebi com a paràmetres el nom i sou. Plantejar un segon mètode print que imprimeixi el nom i un missatge si ha de pagar o no impostos (si el sou supera 6000, paga impostos)."*
     
