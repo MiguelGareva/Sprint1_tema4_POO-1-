@@ -1,6 +1,6 @@
 **<h1>Sprint1 tema 4: POO(1).</h1>**
 
-**<h3>Tecnologías utilizadas:</h3>**<br>
+**<h3>Tecnologías utilizadas:</h3>**
     · Xampp<br>
     · Php versión 8.2.12<br>
     · Git versión 2.47.0.windows.2<br>
