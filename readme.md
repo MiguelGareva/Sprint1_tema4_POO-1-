@@ -18,5 +18,5 @@
     · Abrir navegador web de preferencia e introducir la url: localhost/"la dirección de la carpeta dónde se encuentra el ejercicio o proyecto"
 
 **<h3>#Descripción ejercicios:</h3>**
-    · <a href="1.4.1_POO1_nivell1.php">1.4.1_POO1_nivell1.php</a>: *"Crea una classe Employee, defineix com a atributs el seu nom i sou. Definir un mètode initialize que rebi com a paràmetres el nom i sou. Plantejar un segon mètode print que imprimeixi el nom i un missatge si ha de pagar o no impostos (si el sou supera 6000, paga impostos)."*
+    · <a href="1.4.1_POO1_nivell1">1.4.1_POO1_nivell1.php</a>: *"Crea una classe Employee, defineix com a atributs el seu nom i sou. Definir un mètode initialize que rebi com a paràmetres el nom i sou. Plantejar un segon mètode print que imprimeixi el nom i un missatge si ha de pagar o no impostos (si el sou supera 6000, paga impostos)."*
     
