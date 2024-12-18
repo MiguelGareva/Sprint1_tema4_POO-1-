@@ -17,6 +17,8 @@ class PokerDice {
         return $this->lastShape;
     }
 
-    
+    public static function getTotalThrows():int{
+        return self::$totalThrows;
+    }
 }
 ?>
