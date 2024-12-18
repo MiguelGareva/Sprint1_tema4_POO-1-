@@ -22,7 +22,7 @@
     · <a href="1.4.1_POO1_nivell1">#Ejercicio 1</a>: *"Crea una classe Employee, defineix com a atributs el seu nom i sou. Definir un mètode initialize que rebi com a paràmetres el nom i sou. Plantejar un segon mètode print que imprimeixi el nom i un missatge si ha de pagar o no impostos (si el sou supera 6000, paga impostos)."*<br>
     · <a href="1.4.2_POO1_nivell1">#Ejercicio 2</a>; *"Escriu un programa que defineixi una classe Shape amb un constructor que rebi com a paràmetres l'ample i alt. Defineix dues subclasses; Triangle i Rectangle que heretin de Shape i que calculin respectivament l'àrea de la forma area()."*
     **<h4>Nivel 2:</h4>**
-    · <a href="1.4.1_POO1_nivell1">Ejercicio 1</a>; *"Crea la classe PokerDice. Les cares d'un dau de pòquer tenen les següents 
+    · <a href="1.4.1_POO1_nivell2">#Ejercicio 1</a>; *"Crea la classe PokerDice. Les cares d'un dau de pòquer tenen les següents 
     figures: As, K, Q, J, 7 i 8.<br>Crea el mètode throw que no fa altra cosa que tirar el dau, és a dir, genera un valor aleatori 
     per a l'objecte a què se li aplica el mètode.<br>Crea també el mètode shapeName, que digui quina és la figura que ha sortit en 
     l'última tirada del dau en qüestió.<br>Realitza una aplicació que permeti tirar cinc daus de pòquer alhora.<br>A més, programa 
