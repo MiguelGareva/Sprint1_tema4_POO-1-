@@ -27,3 +27,5 @@
     per a l'objecte a què se li aplica el mètode.<br>Crea també el mètode shapeName, que digui quina és la figura que ha sortit en 
     l'última tirada del dau en qüestió.<br>Realitza una aplicació que permeti tirar cinc daus de pòquer alhora.<br>A més, programa 
     el mètode getTotalThrows que ha de mostrar el nombre total de tirades entre tots els daus."*
+    **<h4>Nivel 3:</h4>**
+    · <a href="1.4.1_POO1_nivell3">#Ejercicio 1</a>; *"Imagina que has de presentar el catàleg de pel·lícules d'una cadena de cinemes. Cada cinema té un nom, una població a on pertany, i un llistat de pel·lícules. Cada pel·lícula té un nom, una duració, i un director/a.<br>Es tracta de fer un programa que ens permeti enregistrar aquesta informació per a després:<br>Per a cada cinema, mostrar les dades de cada pel·lícula.<br>Per a cada cinema, mostrar la pel·lícula amb major duració.<br>Implementa una funció que cerqui pel nom del director/a pel·lícules en diferents cinemes. No cal repetir pel·lícules.<br>A més, pots aprofitar aquest exercici per treballar una bona presentació amb HTML+CSS que doni suport a la lògica."*<br>
