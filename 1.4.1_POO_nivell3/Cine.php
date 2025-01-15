@@ -11,11 +11,16 @@ class Cine{
         $this->localidad = $localidad;
     }
 
-    public function agregarPelicula(Pelicula $pelicula){
+    public function agregarPelicula(Pelicula $pelicula): void{
         $this->cartelera[] = $pelicula;
     }
 
-    public function 
+    public function mostrarDatosCartelera(): void{
+        echo "Cartelera de " . $this->nombre . " (" . $this->localidad . "):" . "<br>";
+            foreach ($this->cartelera as $pelicula) {
+                echo "Título: " . $pelicula->titulo . ", Duración: " . $pelicula->duracion . " min. Director: " . $pelicula->director . ".<br>";
+            }
+    }
 
 }
 ?>
