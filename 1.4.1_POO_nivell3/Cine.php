@@ -6,9 +6,16 @@ class Cine{
     public string $localidad;
     public array $cartelera = [];
 
-    public function __construct(string $nombre, string $localidad, array $cartelera){
-
+    public function __construct(string $nombre, string $localidad){
+        $this->nombre = $nombre;
+        $this->localidad = $localidad;
     }
+
+    public function agregarPelicula(Pelicula $pelicula){
+        $this->cartelera[] = $pelicula;
+    }
+
+    public function 
 
 }
 ?>
