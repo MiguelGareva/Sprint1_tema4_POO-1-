@@ -22,5 +22,16 @@ class Cine{
             }
     }
 
+    public function mostrarPeliculaMasLarga(): Pelicula{
+        $peliculaMasLarga = null;
+        foreach ($this->cartelera as $pelicula) {
+            if ($peliculaMasLarga === null || $pelicula->duracion > $peliculaMasLarga->duracion) {
+                $peliculaMasLarga = $pelicula;
+            }
+        }
+        return $peliculaMasLarga;
+
+    }
+
 }
 ?>

@@ -10,4 +10,8 @@ $pelicula2 = new Pelicula("El café de la Marina", 94, "Domingo Pruna");
 $cine1->agregarPelicula($pelicula1);
 $cine1->agregarPelicula($pelicula2);
 $cine1->mostrarDatosCartelera();
+
+echo "\nPelícula con mayor duración en {$cine1->nombre}:\n";
+$peliculaLarga = $cine1->mostrarPeliculaMasLarga();
+echo " {$peliculaLarga->titulo}({$peliculaLarga->duracion}) min.\n";
 ?>
