@@ -33,5 +33,18 @@ class Cine{
 
     }
 
+    public function buscarPeliculasDirector(string $director): string{
+        $peliculasDirector = [];
+        
+            foreach ($this->cartelera as $pelicula) {
+                if($pelicula->director === $director){
+                    if (!in_array($pelicula->titulo,$peliculasDirector)) {
+                        $peliculasDirector[] = $pelicula->titulo;
+                    }
+                }
+            }
+        $respuesta = implode(", ", $peliculasDirector);
+        return $respuesta;
+    }
 }
 ?>
